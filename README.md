@@ -2,8 +2,6 @@
 
 A port of the default dark theme from Jetbrains' IDE for Neovim with Treesitter support.
 
-![Screenshot](https://user-images.githubusercontent.com/17355488/235284483-77920361-b1b7-4c12-8b1a-d81952aeb947.png)
-
 Includes support for:
 - Tree-sitter
 - LSP semantic highlighting
